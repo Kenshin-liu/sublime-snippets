@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[padding-bottom: pxToRem(${1:0}px);$2 ]]></content>
+	<tabTrigger>padding-bottom</tabTrigger>
+    <description>CSS - padding-bottom</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[left]]></content>
+	<tabTrigger>left</tabTrigger>
+    <description>left</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

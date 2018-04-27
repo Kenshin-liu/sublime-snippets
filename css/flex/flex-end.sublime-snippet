@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[flex-end]]></content>
+	<tabTrigger>flex-end</tabTrigger>
+    <description>flex-end</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

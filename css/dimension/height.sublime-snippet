@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[height: pxToRem(${1:0}px);$2]]></content>
+	<tabTrigger>height</tabTrigger>
+    <description>CSS - height</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

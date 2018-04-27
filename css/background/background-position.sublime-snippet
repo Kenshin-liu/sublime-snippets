@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+background-position: ${1:center};
+]]></content>
+	<tabTrigger>background-position</tabTrigger>
+	<description>CSS - background-position</description>
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

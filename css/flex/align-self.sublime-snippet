@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[align-self: ${1:center};$2]]></content>
+	<tabTrigger>align-self</tabTrigger>
+    <description>CSS - align-self</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

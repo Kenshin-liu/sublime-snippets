@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[Object.assign(this, ${1:res})]]>
+</content>
+	<tabTrigger>object.assign</tabTrigger>
+	<description>JS - Object.assign</description>
+	<scope>source.js</scope>
+</snippet>

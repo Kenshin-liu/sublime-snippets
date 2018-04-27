@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[display: ${1:flex};$2]]></content>
+	<tabTrigger>display</tabTrigger>
+    <description>CSS - display</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

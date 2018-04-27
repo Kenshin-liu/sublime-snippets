@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[max-width: pxToRem(${1:0}px);$2]]></content>
+	<tabTrigger>max-width</tabTrigger>
+    <description>CSS - max-width</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

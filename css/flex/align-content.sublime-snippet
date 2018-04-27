@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[align-content: ${1:space-between};$2]]></content>
+	<tabTrigger>align-content</tabTrigger>
+    <description>CSS - align-content</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

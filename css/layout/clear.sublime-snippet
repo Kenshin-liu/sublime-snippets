@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clear: ${1:both};$2]]></content>
+	<tabTrigger>clear</tabTrigger>
+    <description>CSS - clear</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

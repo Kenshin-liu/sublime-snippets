@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[color: ${1:#fff};$2]]></content>
+	<tabTrigger>color</tabTrigger>
+    <description>CSS - color</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

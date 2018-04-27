@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[flex-wrap: ${1:wrap-reverse};$2]]></content>
+	<tabTrigger>flex-wrap</tabTrigger>
+    <description>CSS - flex-wrap</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

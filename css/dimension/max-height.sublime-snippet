@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[max-height: pxToRem(${1:0}px);$2]]></content>
+	<tabTrigger>max-height</tabTrigger>
+    <description>CSS - max-height</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

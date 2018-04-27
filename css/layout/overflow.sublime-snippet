@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[overflow: ${1:hidden};$2]]></content>
+	<tabTrigger>overflow</tabTrigger>
+    <description>CSS - overflow</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include font-dpr(${1:14}px);$2]]></content>
+	<tabTrigger>font-size</tabTrigger>
+    <description>CSS - font-size</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

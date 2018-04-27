@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[float: ${1:left};$2]]></content>
+	<tabTrigger>float</tabTrigger>
+    <description>CSS - float</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

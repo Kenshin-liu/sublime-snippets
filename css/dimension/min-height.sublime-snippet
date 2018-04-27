@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[min-height: pxToRem(${1:0}px);$2]]></content>
+	<tabTrigger>min-height</tabTrigger>
+    <description>CSS - min-height</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

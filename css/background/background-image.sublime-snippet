@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+background-image: url(${1});
+]]></content>
+	<tabTrigger>background-image</tabTrigger>
+	<description>CSS - background-image</description>
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

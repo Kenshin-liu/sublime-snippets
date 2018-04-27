@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[padding-top: pxToRem(${1:0}px);$2 ]]></content>
+	<tabTrigger>padding-top</tabTrigger>
+    <description>CSS - padding-top</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

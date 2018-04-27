@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[space-around]]></content>
+	<tabTrigger>space-around</tabTrigger>
+    <description>space-around</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

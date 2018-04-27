@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[border-radius: pxToRem(${1:0}px);$2]]></content>
+	<tabTrigger>border-radius</tabTrigger>
+    <description>CSS - border-radius</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

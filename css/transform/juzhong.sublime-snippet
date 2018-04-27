@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+top: 50%;
+right: 50%;
+position: absolute;
+transform: translate(-50%, -50%);]]></content>
+	<tabTrigger>transformjuzhong</tabTrigger>
+    <description>transformjuzhong</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

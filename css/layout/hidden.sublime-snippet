@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hidden]]></content>
+	<tabTrigger>hidden</tabTrigger>
+    <description>hidden</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

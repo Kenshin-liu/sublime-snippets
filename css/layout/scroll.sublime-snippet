@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scroll]]></content>
+	<tabTrigger>scroll</tabTrigger>
+    <description>scroll</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

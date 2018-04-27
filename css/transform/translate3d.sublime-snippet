@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transform: translate3d(0,0,0);$2]]></content>
+	<tabTrigger>translate3d</tabTrigger>
+    <description>CSS - translate3d</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

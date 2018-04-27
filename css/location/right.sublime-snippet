@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[right: pxToRem(${1:0}px);$2]]></content>
+	<tabTrigger>right</tabTrigger>
+	<description>CSS - right</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

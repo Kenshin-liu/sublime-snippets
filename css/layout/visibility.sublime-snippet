@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[visibility: ${1:hidden};$2]]></content>
+	<tabTrigger>visibility</tabTrigger>
+    <description>CSS - visibility</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

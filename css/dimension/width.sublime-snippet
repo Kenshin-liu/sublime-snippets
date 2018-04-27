@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[width: pxToRem(${1:0}px);$2]]></content>
+	<tabTrigger>width</tabTrigger>
+    <description>CSS - width</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[absolute]]></content>
+	<tabTrigger>absolute</tabTrigger>
+    <description>CSS - absolute</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

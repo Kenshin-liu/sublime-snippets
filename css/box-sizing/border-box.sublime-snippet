@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[border-box]]></content>
+	<tabTrigger>border-box</tabTrigger>
+    <description>border-box</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

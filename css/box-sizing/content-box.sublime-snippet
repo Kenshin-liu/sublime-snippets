@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[content-box]]></content>
+	<tabTrigger>content-box</tabTrigger>
+    <description>content-box</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+]]></content>
+	<tabTrigger>shenglue</tabTrigger>
+    <description>CSS - shenglue</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

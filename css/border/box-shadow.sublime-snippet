@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[box-shadow: ${1:1}px;$2 ]]></content>
+	<tabTrigger>box-shadow</tabTrigger>
+    <description>CSS - box-shadow</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
